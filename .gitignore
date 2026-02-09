@@ -1,4 +1,4 @@
-.cache
-Build
-Bin
-Include
+/.cache/
+/Build/
+/Bin/
+/Include/
